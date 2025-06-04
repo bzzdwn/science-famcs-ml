@@ -25,3 +25,13 @@
 | 22.04.2025 | Деревья решений (семинар) | [Запись](https://youtu.be/wEZE3i5NNAk?si=A_-g4mHsDFFHgFHU) | [Ноутбук](15_Деревья_решений_практика/decision-trees.ipynb) | - | 
 | 26.04.2025 | Ансамбли и бустинг (лекция) | [Запись](https://youtu.be/2M51U-8BfVU?feature=shared) | [Слайды](16_Ансамбли_и_бустинг_теория/Машинное_обучение_16.pdf) | - | 
 | 03.05.2025 | Ансамбли и бустинг (семинар) | [Запись](https://youtu.be/bMfuNUwtjU0?si=vp32eR6UGIJSmER-) | [Слайды](17_Ансамбли_и_бустинг_практика/ensembles-boosting.ipynb) | - | 
+
+
+## Итоговый проект
+По завершению курса предлагается выполнить итоговый проект [по одной из предложенных тем в документе](projects_ml_course_famcs.pdf).
+
+## Дополнительные материалы для самообразования
+| Тема | Кто рекомендовал | Материалы |
+|:----:|:----------------:|:---------:|
+| MLOps | Елизавета Авсянник | [Курс на Stepik](https://stepik.org/course/181476/promo) [Курс OTUS](https://otus.ru/lessons/ml-bigdata/) [Яндекс интенсив](https://yandex.ru/project/q/mlops) [ODS интенсив](https://ods.ai/tracks/mlops3-course-spring-2024) |
+
